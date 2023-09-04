@@ -1,0 +1,6 @@
+digraph "first expression" {
+	rankdir=LR size="8,5"
+	node [shape=circle]
+	a -> f [label="df/da=?"]
+	b -> f [label="df/db=?"]
+}
